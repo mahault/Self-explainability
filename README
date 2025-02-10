@@ -1,4 +1,4 @@
-transforms a statistical influence path calculation into a hierarchical generative model following the principles of the paper. 
+transforms a statistical influence path calculation into a hierarchical generative model following the principles of the paper.  https://arxiv.org/abs/2306.04025
 The model now:
 1. Uses Bayesian inference to update influence scores instead of static calculations.
 2. Incorporates hierarchical reasoning for decision introspection.
