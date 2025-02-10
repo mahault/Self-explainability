@@ -1,0 +1,6 @@
+transforms a statistical influence path calculation into a hierarchical generative model following the principles of the paper. 
+The model now:
+1. Uses Bayesian inference to update influence scores instead of static calculations.
+2. Incorporates hierarchical reasoning for decision introspection.
+3. Tracks its own uncertainty about influence attributions.
+4. Provides an introspection score quantifying its explainability.
